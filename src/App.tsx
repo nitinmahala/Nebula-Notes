@@ -167,7 +167,7 @@ function App() {
               <p className="text-gray-400">© Nitin Mahala</p>
               <div className="flex gap-6">
                 <a
-                  href="https://github.com/nitinmahala"
+                  href="https://www.linkedin.com/in/mahalanitin/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
